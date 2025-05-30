@@ -1,6 +1,6 @@
 import re
 
-# Palabras reservadas del lenguaje de Daniel
+# Palabras reservadas del lenguaje nuevo
 palabras_reservadas = {
     "let", "if", "then", "elseif", "else", "while", "do", "for", "in",
     "true", "false"
@@ -50,7 +50,7 @@ def analizar_archivo():
         total_tokens = 0
         errores = 0
 
-        print("🔍 ANALIZADOR LÉXICO - Lenguaje de Daniel")
+        print("🔍 ANALIZADOR LÉXICO - Lenguaje nuevo")
         print("=" * 50)
 
         for linea in archivo:
