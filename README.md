@@ -197,4 +197,4 @@ let, if, else, elseif, for, while, true, false, in, then, do
 
 ## 🚀 Recursos adicionales
 
-¿Te gustaría que genere una portada visual para GitHub o una guía de instalación también?
+
