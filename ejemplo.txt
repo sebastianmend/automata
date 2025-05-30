@@ -1,0 +1,52 @@
+// Declaración de variables
+let año = 2025
+let usuario = "daniel"
+let activo = false
+let numeros = [10, 20, 30, 40]
+let tasa = 7.85
+let deuda = -1500
+let saldo = -32.1
+
+// Apertura/Cierre
+let simbolos = "Los delimitadores usados son << >> y [[ ]]"
+
+// Condicionales
+if (año > 2000) then
+    let epoca = "moderna"
+elseif (año == 1999) then
+    let epoca = "fin del milenio"
+else
+    let epoca = "antiguo"
+
+if (año > 2000) {
+    let epoca = "moderna"
+} elseif (año == 1999) {
+    let epoca = "fin del milenio"
+} else {
+    let epoca = "antiguo"
+}
+
+// Ciclos Repetitivos
+let contador = 5
+
+while (contador < 10) {
+    contador += 1
+}
+
+do {
+    contador -= 1
+} while (contador > 0)
+
+for (let j = 1; j <= 5; j++) {
+    let mensaje = "iterando"
+}
+
+for (item) in (numeros) {
+    let valor = item * 2
+}
+
+// Comentarios
+# texto
+// texto
+''' texto '''
+/* texto */
