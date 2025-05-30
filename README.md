@@ -197,4 +197,6 @@ let, if, else, elseif, for, while, true, false, in, then, do
 
 ## 🚀 Recursos adicionales
 
+![Gráfico autómata](https://github.com/sebastianmend/automata/blob/main/Gr%C3%A1fico%20aut%C3%B3mata%20%20(2).png)
+
 
