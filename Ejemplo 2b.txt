@@ -1,0 +1,25 @@
+# Declaración de variables
+let año = 2025
+let usuario = "Choclo"
+let activo = false
+let numeros = [10, 20, 30, 40]
+let tasa = 7.85
+let deuda = -1500
+let saldo = -32.1
+
+# Condicionales
+if (año > 2000) {
+    let epoca = "moderna"
+} elseif (año == 1999) {
+    let epoca = "fin del milenio"
+} else {
+    let epoca = "antiguo"
+}
+
+# Ciclo Repetitivo
+for (let j = 1; j <= 5; j++) {
+    let mensaje = "iterando"
+}
+
+# Comentarios
+// comentario
